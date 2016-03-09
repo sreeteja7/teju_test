@@ -1,0 +1,4 @@
+#!/bin/sh
+curl  http://localhost:8080/jenkins/job/demo2/build?delay=0sec
+
+
